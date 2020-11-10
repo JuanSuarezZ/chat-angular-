@@ -1,5 +1,5 @@
 # Como Ejecutar:
-# ejemplo didactico
+# ejemplo Usando Angular y firebase
 
 Juan sebastian suarez contreras - 20181578003
 Shanexon steven ortiz - 20161578057
